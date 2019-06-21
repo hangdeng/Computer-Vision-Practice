@@ -1,5 +1,6 @@
 ## Computer Vision Practice
 
+[![License](https://img.shields.io/badge/License-GNU%20--%20General%20Public%20License%203.0-blue.svg)]()
 ------
 
 #### Computer-Vision-ND
